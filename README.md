@@ -4,4 +4,4 @@ https://www.youtube.com/watch?v=M576WGiDBdQ&list=PLURqJtoVmmmZYEL5UMWGAYn5fLacYj
 Using OpenZeppelin, Infura, Brownie, Python, Solidity
 
 IPFS URI is
-https://ipfs.io/ipfs/QmTtqvbKp4E67Dhs1jvS36v2ELk4coxGgsHGc9z7RuHa2f?filename=Alfie.png 
+https://ipfs.io/ipfs/QmTtqvbKp4E67Dhs1jvS36v2ELk4coxGgsHGc9z7RuHa2f 
